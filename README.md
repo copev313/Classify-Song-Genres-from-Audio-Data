@@ -1,2 +1,2 @@
 # Classify-Song-Genres-from-Audio-Data
- Applications of machine learning in Python to classify songs into genres.
+ We train a classifier to distinguish between the two genres based only on track information derived from Echonest (now part of Spotify). Leveraging the `scikit-learn` package we predict whether we can correctly classify a song's genre based on features such as danceability, energy, acousticness, tempo, etc. This project also implementations common algorithms such as PCA, logistic regression, and decision trees.
